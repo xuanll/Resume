@@ -17,5 +17,6 @@
 
 - 1.7 年会，弹唱《骊歌》& 合唱《光辉岁月》
 - 1.11 终结者SLG海外上线，Play 商店 [下载地址](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.skyneten)
+- 4.14 终结者SLG第二版菲律宾上线 
 
 ------
