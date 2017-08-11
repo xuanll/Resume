@@ -19,5 +19,5 @@
 - 1.11 终结者SLG海外上线，Play 商店 [下载地址](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.skyneten)
 - 4.14 终结者SLG第二版菲律宾上线 
 - 5.12 [Unite2017 Shanghai](http://unite2017.csdn.net)
-
+- 8.9 新版更新：增加游戏帮助、游戏助手、优化战斗表现、优化UI表现及动画 [下载地址](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.terminator)
 ------
