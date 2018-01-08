@@ -2,7 +2,7 @@
 在校时作为小组唯一的程序，自学C#并最终完成项目的程序部分。游戏开发经历一千两百余天，有移植游戏功能经验，快速学习能力强。奉行健康生活方式，有跑步习惯。
 
 ## 工作经历
-- **Unity**客户端工程师 [（SLG）Terminator 2(终结者2 新项目)] 2017.5 - 至今
+- **Unity**客户端工程师 （SLG）Terminator 2(终结者2 新项目) 2017.5 - 至今
 
 - **Unity**客户端工程师 [（SLG）Terminator 2 Judgment Day(终结者2：审判日)](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.terminator) 2016.6 - 2017.5
 
