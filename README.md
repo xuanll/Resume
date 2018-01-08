@@ -19,7 +19,7 @@
 - 熟练掌握NGUI和UGUI以及动画插件DoTween
 - 了解**Android**开发
 - 了解**iOS**开发
-- 掌握**Unity3D Android/iOS** SDK接入
+- 掌握Unity3D Android/iOS **SDK**接入
 - 掌握**lua**开发语言
 - 了解**J2EE**开发
 
