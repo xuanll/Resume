@@ -25,8 +25,9 @@
 
 ## 2018
 
-- 1.17 昆仑万维集团十周年口号征集
+- 1.17 昆仑万维集团十周年口号征集（~~昆仑十载，初心不改~~）
 - 1.19 [Terminator 2: Judgment Day](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.skyneten2)上线加拿大`Google Play`
 - 1.19 13：01 闪退
 - 1.19 13：19 找到问题，聊天分享相关问题
+- 1.19 口号征集（~~昆仑十载，初心不改~~） 没选上
 ------
