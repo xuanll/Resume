@@ -27,4 +27,5 @@
 
 - 1.17 昆仑万维集团十周年口号征集
 - 1.19 [Terminator 2: Judgment Day](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.skyneten2)上线加拿大`Google Play`
+- 1.19 13：01闪退
 ------
