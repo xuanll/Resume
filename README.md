@@ -3,7 +3,7 @@
 游戏客户端开发经历一千两百余天，实现过各种复杂界面及系统，精通各种UI位置和大小计算，有成功移植游戏功能经验。快速学习能力强，注重分享交流，具有开源精神，有代码洁癖，提交谨慎。能熟练使用lua及C#/Java等面向对象语言编程。奉行健康的生活方式，有跑步习惯。
 
 ## 工作经历
-- **Unity**客户端工程师 （SLG）Terminator 2(终结者2 新项目) *2017.8 - 至今*
+- **Unity**客户端工程师 （SLG）[Terminator 2(终结者2 新项目)](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.skyneten2) *2017.8 - 至今*
 
 - **Unity**客户端工程师 [（SLG）Terminator 2 Judgment Day(终结者2：审判日)](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.terminator) *2016.6 - 2017.8*
 
