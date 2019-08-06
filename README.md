@@ -1,4 +1,4 @@
-# Mr. L
+# [Mr. L](https://github.com/xuanll/Resume/blob/master/AboutMe.md)
 软件工程专业背景，毕业于北京交通大学，目前最高学历为研究生，熟悉软件工程关键流程。英语能力超过常人。
 游戏客户端开发经历一千两百余天，实现过各种复杂界面及系统，精通各种UI位置和大小计算，有成功移植游戏功能经验。快速学习能力强，注重分享交流，具有开源精神，有代码洁癖，提交谨慎。能熟练使用lua及C#/Java等面向对象语言编程。奉行健康的生活方式，有跑步习惯。
 
@@ -7,6 +7,8 @@
 - **Unity**客户端工程师 （SLG）[Terminator 2(终结者2 新项目)](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.skyneten2) *2017.8 - 2018.2*
 
 - **Unity**客户端工程师 [（SLG）Terminator 2 Judgment Day(终结者2：审判日)](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.terminator) *2016.6 - 2017.8*
+
+- [昆仑万维的日子](https://github.com/xuanll/Resume/blob/master/KUNLUN_BigDay.md)
 
 - Unity **AR**项目工程师 [迷你世界](https://android.myapp.com/myapp/detail.htm?apkName=com.vivabro.miniworld) [iOS版](http://t.cn/AiTPppjL) *2015.12 － 2016.03*
 
