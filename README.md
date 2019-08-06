@@ -8,7 +8,7 @@
 
 - **Unity**客户端工程师 [（SLG）Terminator 2 Judgment Day(终结者2：审判日)](https://play.google.com/store/apps/details?id=com.gameholic.ggplay.terminator) *2016.6 - 2017.8*
 
-- Unity **AR**项目工程师 [迷你世界](https://android.myapp.com/myapp/detail.htm?apkName=com.vivabro.miniworld) *2015.12 － 2016.03*
+- Unity **AR**项目工程师 [迷你世界](https://android.myapp.com/myapp/detail.htm?apkName=com.vivabro.miniworld) [iOS版](http://t.cn/AiTPppjL) *2015.12 － 2016.03*
 
 - **Unity**前端开发工程师 [海岸狂奔项目](http://v.youku.com/v_show/id_XMTM0NDc2NDUwNA==.html?from=s1.8-1-1.2) *2014.07 - 2015.12*
 
