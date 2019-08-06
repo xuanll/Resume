@@ -38,7 +38,7 @@
 - 玩过嵌入式`Arduino`板子、`ZigBee`无线通信模块还有LED
 - 爱`Git`不爱`SVN`
 - 希望成为一名全栈工程师
-- 滑板近十年的一位滑板教练
+- 滑板近十年的一位滑板教练，请支持我的[云养计划](https://t.modian.com/project/76909.html)
 - 摄影师，部分作品见[500px](https://500px.me/manman90)
 
 ## 相关主页
