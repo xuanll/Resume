@@ -1,4 +1,4 @@
-# [Mr. L](https://github.com/xuanll/Resume/blob/master/AboutMe.md)
+# [慢慢](https://github.com/xuanll/Resume/blob/master/AboutMe.md)
 [软件工程专业](http://sse.bjtu.edu.cn/cms/)背景，毕业于[北京交通大学](https://www.bjtu.edu.cn/)，目前最高学历为研究生，熟悉软件工程关键流程。英语能力超过常人。
 **游戏**客户端开发经历一千两百余天，实现过各种复杂界面及系统，精通各种UI位置和大小计算，有成功移植游戏功能经验。快速学习能力强，注重分享交流，具有**开源**精神，有**代码洁癖**，提交谨慎。能熟练使用`lua`及`C#`/`Java`等**面向对象语言**编程。奉行**健康**的生活方式，有跑步习惯。
 
@@ -46,6 +46,7 @@
 ## 相关主页
 - [LinkedIn](http://www.linkedin.com/in/lvlinxuan)
 - [博客园](http://www.cnblogs.com/xuanll/)
+- [视觉中国](http://500px.me/manman90)
 
 ## 推荐阅读
 - [我是一个坚持“朝九晚五”的程序员](https://36kr.com/p/5132911?ktm_source=feed)
